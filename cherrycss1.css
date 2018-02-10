@@ -1,0 +1,48 @@
+
+#ho1{
+    background-color:black;
+    text-align: left;
+    color:white;
+    display:inline;
+    padding:5px;
+    margin:5px;
+}
+.paraclass{
+    text-align: left;
+    padding:5px;
+    margin:5px;
+    display:inline;
+
+}
+.spanclass{
+    padding:5px;
+    margin:5px;
+    color:red;
+    border:1px solid purple;
+    display:grid;
+}
+.divclass{
+    padding:5px;
+    margin:5px;
+    color:purple;
+    border:2px solid red;
+
+}
+table,th,td{
+    border:2px solid purple;
+    border-collapse: collapse;
+    padding: 5px;
+    margin:5px;
+
+}
+th{
+    text-align: center;
+    color: black;
+
+}
+td{
+    color:red;
+}
+li{
+    color:rebeccapurple;
+}
